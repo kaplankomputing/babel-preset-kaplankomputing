@@ -15,6 +15,6 @@ module.exports = {
     ],
     [ require('babel-plugin-transform-class-properties') ],
     [ require('babel-plugin-transform-object-rest-spread') ],
-    [ require('transform-async-to-generator') ]
+    [ require('babel-plugin-transform-async-to-generator') ]
   ]
 };
